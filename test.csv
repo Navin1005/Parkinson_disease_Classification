@@ -1,0 +1,2 @@
+subject#,age,sex,test_time,motor_UPDRS,total_UPDRS,Jitter(%),Jitter(Abs),Jitter:RAP,Jitter:PPQ5,Jitter:DDP,Shimmer,Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,Shimmer:APQ11,Shimmer:DDA,NHR,HNR,RPDE,DFA,PPE
+1,72,0,117.66,33.178,42.904,0.00693,3.93E-05,0.00329,0.00285,0.00987,0.0281,0.274,0.01468,0.0143,0.01952,0.04405,0.04198,20.878,0.52874,0.57711,0.34948
